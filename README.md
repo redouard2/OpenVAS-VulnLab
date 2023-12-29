@@ -147,5 +147,5 @@ This project successfully demonstrated the configuration of OpenVAS and the subs
 
 
 ## Reflection
-This project was designed to give me hands-on experience with vulnerability management, including configurations and remediations. This was the second Vulnerability Management suite that I used (the first being Tenable Nessus), and I have enjoyed doing this project to increase myskillset further. 
+This project was designed to give me hands-on experience with vulnerability management, including configurations and remediations. This was the second Vulnerability Management suite I used (the first being Tenable Nessus), and I have enjoyed doing this project to increase my skills further. In the future, I will be doing a Qualys Vulnerability Management Scanner Lab, redo the Nessus Vulnerability Management Lab, and do my own mini Active Directory Lab.
 
